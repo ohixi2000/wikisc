@@ -1,0 +1,5 @@
+﻿# wikisc
+
+> Dokumentacja ServerCreators
+
+- [wikisc](https://docs.example.com/readme.md): wikisc
