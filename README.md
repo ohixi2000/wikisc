@@ -1,0 +1,2 @@
+# wikisc
+Dokumentacja ServerCreators
