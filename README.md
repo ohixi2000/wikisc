@@ -1,2 +1,2 @@
-# wikisc
-Dokumentacja ServerCreators
+# Dokumentacja ServerCreators
+Znajdujesz się na oficjalnej dokumentacji ServerCreators
