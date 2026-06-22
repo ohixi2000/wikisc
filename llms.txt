@@ -1,5 +1,5 @@
-﻿# wikisc
+﻿# Dokumentacja ServerCreators
 
-> Dokumentacja ServerCreators
+> Znajdujesz się na oficjalnej dokumentacji ServerCreators
 
-- [wikisc](https://docs.example.com/readme.md): wikisc
+- [Dokumentacja ServerCreators](https://docs.example.com/readme.md): Dokumentacja ServerCreators
