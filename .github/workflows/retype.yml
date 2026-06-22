@@ -1,24 +1,19 @@
-name: Publish Retype powered website to GitHub Pages
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+input: .
+output: .retype
 
-jobs:
-  publish:
-    name: Publish to retype branch
+url: docs.example.com # Use your website address here
 
-    runs-on: ubuntu-latest
+start:
+  # Try the Retype Pro features
+  pro: true
 
-    permissions:
-      contents: write
+branding:
+  title: ServerCreators
+  label: Docs
 
-    steps:
-      - uses: actions/checkout@v6
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
 
-      - uses: retypeapp/action-build@latest
-
-      - uses: retypeapp/action-github-pages@latest
-        with:
-          update-branch: true
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
