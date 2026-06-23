@@ -1,2 +1,2 @@
 # Dokumentacja ServerCreators
-Znajdujesz się na oficjalnej dokumentacji ServerCreators
+Znajdujesz się na oficjalnej dokumentacji ServerCreators.pl
