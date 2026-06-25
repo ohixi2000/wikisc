@@ -5,7 +5,7 @@ url: docs.example.com # Use your website address here
 
 start:
   # Try the Retype Pro features
-  pro: true
+  pro: false
 
 branding:
   title: ServerCreators
